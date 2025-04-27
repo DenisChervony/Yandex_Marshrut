@@ -6,7 +6,8 @@
 
 <details>
    <summary>Требования к Яндекс Маршрутам</summary>
- [Требования к Яндекс Маршрутам](https://docs.google.com/document/d/1131FAZxtMiE7Xr-CrfIbXOpybaZDB0HZ/edit?usp=sharing&ouid=109826376981416116410&rtpof=true&sd=true)
+ 
+   [Требования к Яндекс Маршрутам](https://docs.google.com/document/d/1131FAZxtMiE7Xr-CrfIbXOpybaZDB0HZ/edit?usp=sharing&ouid=109826376981416116410&rtpof=true&sd=true)
  
  </details>
 <details>
