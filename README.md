@@ -1,4 +1,4 @@
-<img src="[https://github.com/DenisChervony/web-images/blob/main/DenisChervony.png](https://github.com/DenisChervony/web-images/blob/main/Yandex_Marshrut.jpg)" alt="Yandex Marshrut" align="center" style="width:100%; height:auto;">
+<img src="[https://github.com/DenisChervony/web-images/blob/main/Yandex_Marshrut.jpg" alt="Yandex Marshrut" align="center" style="width:100%; height:auto;">
 
 # Яндекс.Маршруты
 
