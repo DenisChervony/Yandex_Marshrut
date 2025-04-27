@@ -10,11 +10,14 @@
    [Требования к Яндекс Маршрутам](https://docs.google.com/document/d/1131FAZxtMiE7Xr-CrfIbXOpybaZDB0HZ/edit?usp=sharing&ouid=109826376981416116410&rtpof=true&sd=true)
  
  </details>
+
 <details>
-   <summary>Задача</summary>
+  <summary>Макеты</summary>
  
- 
- </details>
+ [Макет в Figma](https://www.figma.com/design/42mNwme0cBfZwNZUIcN1mh/Яндекс.Маршруты?node-id=2-18586&p=f&t=j4aoS5rtNE3faSna-0)
+
+</details>
+
  <details>
    <summary>Задача</summary>
  
